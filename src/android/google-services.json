@@ -1,39 +1,45 @@
 {
   "project_info": {
-    "project_number": "123",
-    "firebase_url": "https://cordova-plugin-firebase.firebaseio.com",
-    "project_id": "cordova-plugin-firebase",
-    "storage_bucket": "cordova-plugin-firebase.appspot.com"
+    "project_number": "182905710778",
+    "firebase_url": "https://oilanalysisnotify.firebaseio.com",
+    "project_id": "oilanalysisnotify",
+    "storage_bucket": "oilanalysisnotify.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123:android:123",
+        "mobilesdk_app_id": "1:182905710778:android:1be4263abfdbef415b7a83",
         "android_client_info": {
-          "package_name": "com.github.cordova_plugin_firebase"
+          "package_name": "nww3geh9pn.net.oilanalysis.oilanalysis"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123.apps.googleusercontent.com",
+          "client_id": "182905710778-3q496qvqe9eiddr8sl1g7humqpomn5p2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nww3geh9pn.net.oilanalysis.oilanalysis",
+            "certificate_hash": "31af960ff46003442515b1dcc8db472bf036c53f"
+          }
+        },
+        {
+          "client_id": "182905710778-o2dth04tfern8dkaglt58geqc9lf01m2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "123"
+          "current_key": "AIzaSyBI8FeRt4iLeVVPlYyh6RI09far0fvTIbg"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182905710778-o2dth04tfern8dkaglt58geqc9lf01m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
