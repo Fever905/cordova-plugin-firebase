@@ -2,7 +2,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RADAR-base/cordova-plugin-firebase"
+    "url": "https://github.com/Fever905/cordova-plugin-firebase"
   },
   "name": "cordova-plugin-firebase-with-upstream-messaging",
   "version": "2.1.2",
