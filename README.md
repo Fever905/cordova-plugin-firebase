@@ -1,4 +1,5 @@
 # cordova-plugin-firebase-with-upstream-messaging
+# not for public use! - this is hardcoded for PhoneGap Build to work with my specific app. anyone else should use: https://github.com/RADAR-base/cordova-plugin-firebase
 This plugin is a modified version of `cordova-plugin-firebase` that provides the ability to set the FCM sender ID and send upstream messages.
 
 This plugin brings push notifications, analytics, event tracking, crash reporting and more from Google Firebase to your Cordova project!  Android and iOS supported.
